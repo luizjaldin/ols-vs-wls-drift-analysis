@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+.superpowers/
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# Windows/DOS
+Thumbs.db
+ehthumbs.db
+desktop.ini
